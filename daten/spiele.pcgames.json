@@ -1,0 +1,140 @@
+
+[
+  {
+  "_id": {
+    "$oid": "6546baac40c5c556fe463aff"
+  },
+  "name": "GTA V",
+  "jahr": 2013,
+  "download": 145000000,
+  "alter": 18,
+  "art": [
+    "open world"
+  ],
+  "bewertung": 8
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b00"
+  },
+  "name": "Valorant",
+  "jahr": 2020,
+  "download": 125000000,
+  "alter": 16,
+  "art": [
+    "shooter"
+  ],
+  "bewertung": 7.5
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b01"
+  },
+  "name": "Fortnite",
+  "jahr": 2016,
+  "download": 350000000,
+  "alter": 13,
+  "art": [
+    "shooter",
+    "battle royale"
+  ],
+  "bewertung": 4
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b02"
+  },
+  "name": "Red Dead Redemption 2",
+  "jahr": 2018,
+  "download": 36000000,
+  "alter": 18,
+  "art": [
+    "open world"
+  ],
+  "bewertung": 2
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b03"
+  },
+  "name": "Subway Surfers",
+  "jahr": 2012,
+  "download": {
+    "$numberLong": "2700000000"
+  },
+  "alter": 3,
+  "art": [
+    "runner",
+    "mobile"
+  ],
+  "bewertung": 9.5
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b04"
+  },
+  "name": "The Elder Scrolls V: Skyrim",
+  "jahr": 2011,
+  "download": 30000000,
+  "alter": 17,
+  "art": [
+    "open world"
+  ],
+  "bewertung": 2
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b05"
+  },
+  "name": "Minecraft",
+  "jahr": 2011,
+  "download": 200000000,
+  "alter": 7,
+  "art": [
+    "open world",
+    "multiplayer"
+  ],
+  "bewertung": 7
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b06"
+  },
+  "name": "EA FC",
+  "jahr": 2023,
+  "download": 250000000,
+  "alter": 3,
+  "art": [
+    "Sport"
+  ],
+  "bewertung": 9
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b07"
+  },
+  "name": "COD Warzone",
+  "jahr": 2020,
+  "download": 100000000,
+  "alter": 18,
+  "art": [
+    "shooter",
+    "battle royale"
+  ],
+  "bewertung": 3
+},
+{
+  "_id": {
+    "$oid": "6546baac40c5c556fe463b08"
+  },
+  "name": "CSGO",
+  "jahr": 2012,
+  "download": 320000000,
+  "alter": 18,
+  "art": [
+    "shooter",
+    "multiplayer"
+  ],
+  "bewertung": 7.5
+}
+]
